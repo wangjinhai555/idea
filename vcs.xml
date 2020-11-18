@@ -10,6 +10,10 @@
           <option name="url" value="https://gitee.com/xgpxg/sim-framework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/jinhaiwang/blog-new.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\ideaWork" />
