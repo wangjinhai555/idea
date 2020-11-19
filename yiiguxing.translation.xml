@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="current Step" />
+      <item value="currentStep 1233 not found!" />
       <item value="iam Work Change" />
       <item value="DRAFT" />
       <item value="This scheduler instance (LAPTOP-9TNAJCBI1605754469179) is still active but was recovered by another instance in the cluster. This may cause inconsistent behavior." />
@@ -14,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
