@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DRAFT" />
+      <item value="This scheduler instance (LAPTOP-9TNAJCBI1605754469179) is still active but was recovered by another instance in the cluster. This may cause inconsistent behavior." />
       <item value="iam Work Approvaling" />
       <item value="iam Work Draft" />
       <item value="ERROR: transport error 202: bind failed: Address already in use ERROR: JDWP Transport dt_socket failed to initialize, TRANSPORT_INIT(510) JDWP exit error AGENT_ERROR_TRANSPORT_INIT(197): No transports initialized [debugInit.c:750]" />
@@ -11,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
