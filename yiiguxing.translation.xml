@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'java.lang.String.year' does not exist. SKIPPED." />
+      <item value="is still active but was recovered by another instance in the cluster. This may cause inconsistent behavior." />
       <item value="WAITING FOR THIS LOCK TO BE GRANTED:" />
       <item value="RECORD LOCKS space id 454 page no 3 n bits 80 index PRIMARY of table `bpma" />
       <item value="TRANSACTION 1773212, ACTIVE 0 sec inserting" />
@@ -24,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
