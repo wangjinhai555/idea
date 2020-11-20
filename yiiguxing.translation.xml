@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WAITING FOR THIS LOCK TO BE GRANTED:" />
+      <item value="RECORD LOCKS space id 454 page no 3 n bits 80 index PRIMARY of table `bpma" />
+      <item value="TRANSACTION 1773212, ACTIVE 0 sec inserting" />
+      <item value="mysql tables in use 1, locked 1" />
+      <item value="*** (1) TRANSACTION:" />
+      <item value="Trx id counter 1773464 Purge done for trx's n:o &lt; 1773464 undo n:o &lt; 0 state: running but idle" />
+      <item value="RANSACTION 1773211, ACTIVE 0 sec inserting mysql tables in use 1, locked 1 LOCK WAIT 3 lock struct(s), heap size 1136, 2 row lock(s) MySQL thread id 13624, OS thread handle 140135928542976, query id 8201775 172.20.100.55 bpmapp53 update" />
       <item value="Path does not chain with any of the trust anchors" />
       <item value="current Step" />
       <item value="currentStep 1233 not found!" />
@@ -17,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
