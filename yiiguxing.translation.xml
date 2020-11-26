@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="audit Category" />
       <item value="/** * This interface defines a strategy for sending simple mails. Can be * implemented for a variety of mailing systems due to the simple requirements. * For richer functionality like MIME messages, consider JavaMailSender. * * &lt;p&gt;Allows for easy testing of clients, as it does not depend on JavaMail's * infrastructure classes: no mocking of JavaMail Session or Transport necessary. * * @author Dmitriy Kopylenko * @author Juergen Hoeller * @since 10.09.2003 * @see org.springframework.mail.javamail.JavaMailSender" />
       <item value="* Send the given array of simple mail messages in batch. * @param simpleMessages the messages to send * @throws MailParseException in case of failure when parsing a message * @throws MailAuthenticationException in case of authentication failure * @throws MailSendException in case of failure when sending a message" />
       <item value="in case of failure when parsing a message" />
@@ -33,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
